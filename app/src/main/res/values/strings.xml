@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Voices</string>
+    <string name="CricketVoice"> Cricket</string>
+    <string name="play_button">Play</string>
+    <string name="pause_button">Pause</string>
+    <string name="SinWave_button">SinWave</string>
+    <string name="Chirp_button">Chirp</string>
+    <string name="freq_input">Freq of Sinwave</string>
+    <string name="freq_input2">Freq1 of Chirp</string>
+    <string name="freq_input3">Freq2 of Chirp</string>
+</resources>
